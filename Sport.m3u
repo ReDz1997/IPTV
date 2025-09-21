@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="F1",Sky Sports F1
+http://panelguys.top:8080/txd7Fd/030774/53704
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="F1",Sky Sports F1
+https://live.catvod.com/catvod_com.php?id=tiankongf1&token=9c11e811d534390f2fcaa8d3d1a9aa8e0b94de437babb10660e0887f1f0181c3%3A1757786100
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="F1",Sky Sports F1 
+http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53704
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="F1",Sky Sports F1 FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="F1",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png",緯來體育
+https://live.catvod.com/catvod_com.php?id=videolandsport&token=068b1329be1060eaf5c950aa1e359a36bf06187350d3f0e8fb150cd70c35c18e%3A1758277489
+#EXTINF:-1 group-title="Sport" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png",緯來育樂
+https://live.catvod.com/catvod_com.php?id=videolandmax&token=a09cbb4df8d5175af57f06dafa803da5ab077ce72b4425c1a6796e8e0f6cc5af%3A1758277489
+#EXTINF:-1 group-title="Sport" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="Sport" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF:-1 group-title="Sport",愛爾達體育1
+https://live.catvod.com/catvod_com.php?id=eltasport_twn&token=26d2891ce4f48ddfa4fbbe28c3d07e4d9638cd7ee6127959d8155a96d7f50943%3A1758425533
+#EXTINF:-1 group-title="Sport",愛爾達體育2
+https://live.catvod.com/catvod_com.php?id=eltasport2_twn&token=7eadd04f2eaa594f015faaab17a98235c3d74a58f90b9aaaacaff1b0b6fdebf1%3A1758425533
+#EXTINF:-1 group-title="Sport",愛爾達體育3
+https://live.catvod.com/catvod_com.php?id=eltasport3_twn&token=2e6a7a6d37e571077b72382cc5a509f0f8455b26f484c88f8d194d5a321ebf4b%3A1758425533
+#EXTINF:-1 group-title="Sport",愛爾達體育4
+https://live.catvod.com/catvod_com.php?id=eltasports4_twn&token=2f3390d641b91d0329b66da80b3eb20d9b57b7b09fa006f8d00021cd6d3980a4%3A1758425533
+
+
+#EXTINF:-1 group-title="Sport",愛爾達體育1
+http://t.061899.xyz/tl/js/js.php?id=1aedtyt
+#EXTINF:-1 group-title="Sport",愛爾達體育2
+http://t.061899.xyz/tl/js/js.php?id=2aedtyt
+#EXTINF:-1 group-title="Sport",愛爾達體育3
+http://t.061899.xyz/tl/js/js.php?id=3aedtyt
+#EXTINF:-1 group-title="Sport",愛爾達體育4
+http://t.061899.xyz/tl/js/js.php?id=4aedtyt
+
+
+#EXTINF:-1 group-title="Sport",DAZN 1
+https://live.catvod.com/catvod_com.php?id=dazn1_twn&token=60d4d6a77c5095f5b0c3cdda1ac2f786b13f899e0e7c7f85643d888a641b576c%3A1758425533
+#EXTINF:-1 group-title="Sport",DAZN 2
+https://live.catvod.com/catvod_com.php?id=dazn2_twn&token=015e065af841ef3161bbb4e4b7d60850b0ebc82de39f67227b348fb083c55cd2%3A1758425533
+
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png",五星體育
+http://8.138.7.223/tv/shtv.php?id=wxty
